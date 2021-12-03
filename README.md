@@ -10,7 +10,7 @@
   <img src="https://github.com/kaledinandrew/hse21_hw3/blob/main/pictures/p12.png" style="zoom:30%;" />
   <img src="https://github.com/kaledinandrew/hse21_hw3/blob/main/pictures/p13.png" style="zoom:30%;" />
   
-### Полученная таблица со значениями: 
+### Полученная таблица со значениями на основе .hisat файлов: 
   <img src="https://github.com/kaledinandrew/hse21_hw3/blob/main/pictures/p14.png" style="zoom:30%;" />
 
 
